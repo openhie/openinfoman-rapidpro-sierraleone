@@ -1,0 +1,6 @@
+<ValueSet xmlns="urn:ihe:iti:svs:2008" xmlns:svs="urn:ihe:iti:svs:2008" id="2.25.73266099614340349257185119761352072673782983840176" version="20140903" displayName="RapidPRO Telecom Types">
+  <ConceptList xml:lang="en-US">
+    <Concept code="mobile" displayName="Mobile" codeSystem="2.25.73266099614340349257185119761352072673782983840176"/>
+    <Concept code="voice" displayName="Voice" codeSystem="2.25.73266099614340349257185119761352072673782983840176"/>
+  </ConceptList>
+</ValueSet>

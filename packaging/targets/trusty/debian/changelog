@@ -1,0 +1,184 @@
+openinfoman-rapidpro (1.2.2~trusty) trusty; urgency=medium
+
+  * Release Version 1.2.2
+    -3a82ad1 fixup csd_webconf references
+    --http://github.com/openhie/openinfoman-rapidpro/commmit/3a82ad1
+
+ -- Carl Leitner <litlfred@ibiblio.org>  Mon, 28 Mar 2016 02:03:31 +0000
+
+openinfoman-rapidpro (1.2.1~trusty) trusty; urgency=medium
+
+  * Release Version 1.2.1
+
+ -- Carl Leitner <litlfred@ibiblio.org>  Sun, 20 Mar 2016 18:40:22 +0000
+
+openinfoman-rapidpro (1.1.2~trusty) trusty; urgency=medium
+
+  * Release Version 1.1.2
+
+ -- Carl Leitner <litlfred@ibiblio.org>  Sat, 05 Mar 2016 10:58:00 +0000
+
+openinfoman-rapidpro (1.1.1~trusty) trusty; urgency=medium
+
+  * Release Version 1.1.1
+
+ -- Carl Leitner <litlfred@ibiblio.org>  Sat, 05 Mar 2016 10:57:01 +0000
+
+openinfoman-rapidpro (1.0.18~trusty) trusty; urgency=medium
+
+  * Release Version 1.0.18
+    -45934a2 Changing port 8984 to 5001 to make access going through th
+    --https://github.com/openhie/openinfoman-rapidpro/commmit/45934a2
+    -5145e5a Changing port 8984 to 5001 to make access going through th
+    --https://github.com/openhie/openinfoman-rapidpro/commmit/5145e5a
+    -94c8133 Adding script to delete contacts
+    --https://github.com/openhie/openinfoman-rapidpro/commmit/94c8133
+
+ -- Carl Leitner <litlfred@ibiblio.org>  Sat, 05 Mar 2016 10:09:51 +0000
+
+openinfoman-rapidpro (1.0.17~trusty) trusty; urgency=medium
+
+  * Release Version 1.0.17
+    -d3a1b3a sending 5 items as a list instead of sending 5 parameters
+    --http://github.com/openhie/openinfoman-rapidpro/commmit/d3a1b3a
+
+ -- Carl Leitner <litlfred@ibiblio.org>  Sun, 14 Feb 2016 14:27:58 +0000
+
+openinfoman-rapidpro (1.0.16~trusty) trusty; urgency=medium
+
+  * Release Version 1.0.16
+    -0bc209e webui API updates
+    --http://github.com/openhie/openinfoman-rapidpro/commmit/0bc209e
+    -b6c78d1 fixed a bug,parameter groups and group_uuids cant be used
+    --http://github.com/openhie/openinfoman-rapidpro/commmit/b6c78d1
+    -485b845 Added ability to push and pull contacts to a specific Rapi
+    --http://github.com/openhie/openinfoman-rapidpro/commmit/485b845
+    -59d8263 Making IP anonimous
+    --http://github.com/openhie/openinfoman-rapidpro/commmit/59d8263
+    -1d9f98b Added an autosync script between iHRIS,OIM and RapidPro
+    --http://github.com/openhie/openinfoman-rapidpro/commmit/1d9f98b
+    -4d2fa75 iti-74 now puts in the rapidpro id as an otherID.  assigni
+    --http://github.com/openhie/openinfoman-rapidpro/commmit/4d2fa75
+    -1268c3f added stored query to check cellcom and lonestar statisitc
+    --http://github.com/openhie/openinfoman-rapidpro/commmit/1268c3f
+    -6ab9eae sync script lets setting openinfoman url using OPENINFOMAN
+    --http://github.com/openhie/openinfoman-rapidpro/commmit/6ab9eae
+    -cc94bfb added php script that acts as a facade in front of RapidPr
+    --http://github.com/openhie/openinfoman-rapidpro/commmit/cc94bfb
+
+ -- Carl Leitner <litlfred@ibiblio.org>  Mon, 18 Jan 2016 22:44:00 -0500
+
+openinfoman-rapidpro (1.0.15~trusty) trusty; urgency=medium
+
+  * Release Version 1.0.15
+    -ae3a649 added synchronize service from CSD to RapidPro
+    --https://github.com/openhie/openinfoman-rapidpro/commmit/ae3a649
+
+ -- Carl Leitner <litlfred@ibiblio.org>  Sat, 18 Apr 2015 08:21:45 -0400
+
+openinfoman-rapidpro (1.0.14~trusty) trusty; urgency=medium
+
+  * Release Version 1.0.14
+
+ -- Carl Leitner <litlfred@ibiblio.org>  Fri, 17 Apr 2015 22:31:44 -0400
+
+openinfoman-rapidpro (1.0.13~trusty) trusty; urgency=medium
+
+  * Release Version 1.0.13
+    -84ca7fe lowercase globalid for json
+    --https://github.com/openhie/openinfoman-rapidpro/commmit/84ca7fe
+
+ -- Carl Leitner <litlfred@ibiblio.org>  Fri, 17 Apr 2015 15:15:33 -0400
+
+openinfoman-rapidpro (1.0.12~trusty) trusty; urgency=medium
+
+  * Release Version 1.0.12
+    -6f87bf9 fixup tels in json export
+    --https://github.com/openhie/openinfoman-rapidpro/commmit/6f87bf9
+
+ -- Carl Leitner <litlfred@ibiblio.org>  Fri, 17 Apr 2015 15:01:53 -0400
+
+openinfoman-rapidpro (1.0.11~trusty) trusty; urgency=medium
+
+  * Release Version 1.0.11
+    -60f730a Added CSD->RapidPro contancts json
+    --https://github.com/openhie/openinfoman-rapidpro/commmit/60f730a
+
+ -- Carl Leitner <litlfred@ibiblio.org>  Fri, 17 Apr 2015 14:55:41 -0400
+
+openinfoman-rapidpro (1.0.10~trusty) trusty; urgency=medium
+
+  * Release Version 1.0.10
+    -a5d4924 added export function for dumping to csv for rapidpro
+    --https://github.com/openhie/openinfoman-rapidpro/commmit/a5d4924
+
+ -- Carl Leitner <litlfred@ibiblio.org>  Fri, 17 Apr 2015 14:01:44 -0400
+
+openinfoman-rapidpro (1.0.9~trusty) trusty; urgency=medium
+
+  * Release Version 1.0.9
+    -ee1789e webhook can be GET or POST, mediatype of webhook is applic
+    --https://github.com/openhie/openinfoman-rapidpro/commmit/ee1789e
+
+ -- Carl Leitner <litlfred@ibiblio.org>  Thu, 12 Mar 2015 19:16:39 +0000
+
+openinfoman-rapidpro (1.0.8~trusty) trusty; urgency=medium
+
+  * Release Version 1.0.8
+
+ -- Carl Leitner <litlfred@ibiblio.org>  Wed, 11 Mar 2015 18:59:10 +0000
+
+openinfoman-rapidpro (1.0.7~trusty) trusty; urgency=medium
+
+  * Release Version 1.0.7
+    -166a201 Update README.md
+    --https://github.com/openhie/openinfoman-rapidpro/commmit/166a201
+
+ -- Carl Leitner <litlfred@ibiblio.org>  Wed, 11 Mar 2015 18:58:49 +0000
+
+openinfoman-rapidpro (1.0.6~trusty) trusty; urgency=medium
+
+  * Release Version 1.0.6
+
+ -- Carl Leitner <litlfred@ibiblio.org>  Mon, 02 Mar 2015 14:33:10 -0500
+
+openinfoman-rapidpro (1.0.5~trusty) trusty; urgency=medium
+
+  * Release Version 1.0.5
+
+ -- Carl Leitner <litlfred@ibiblio.org>  Mon, 02 Mar 2015 14:32:54 -0500
+
+openinfoman-rapidpro (1.0.4~trusty) trusty; urgency=medium
+
+  * Release Version 1.0.4
+    -40f0f48 added gitignore
+    --https://github.com/openhie/openinfoman-rapidpro/commmit/40f0f48
+
+ -- Carl Leitner <litlfred@ibiblio.org>  Wed, 18 Feb 2015 19:08:24 +0000
+
+openinfoman-rapidpro (1.0.3~trusty) trusty; urgency=medium
+
+  * Release Version 1.0.3
+
+ -- Carl Leitner <litlfred@ibiblio.org>  Mon, 16 Feb 2015 19:06:31 +0000
+
+openinfoman-rapidpro (1.0.2~trusty) trusty; urgency=medium
+
+  * Release Version 1.0.2
+
+ -- Carl Leitner <litlfred@ibiblio.org>  Mon, 16 Feb 2015 16:22:30 +0000
+
+openinfoman-rapidpro (1.0.1~trusty) trusty; urgency=medium
+
+  * Release Version 1.0.1
+
+ -- Carl Leitner <litlfred@ibiblio.org>  Mon, 16 Feb 2015 14:40:19 +0000
+
+openinfoman-rapidpro (1.0.0~trusty) trusty; urgency=low
+
+  [Carl Leitner <litlfred@ibiblio.org>]
+  * Initial Build
+    Fri 2015-02-13 13:55:10 -0500
+
+ -- Carl Leitner <litlfred@ibiblio.org>  Mon, 16 February 2015 13:55:10 -0500
+
